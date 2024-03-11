@@ -1,3 +1,9 @@
+
+> [!WARNING]  
+> This fork is no longer maintained.
+> 
+> For InterSystems IRIS support in the OHDSI toolset, please see the forks managed by [intersystems-community](https://github.com/orgs/intersystems-community/repositories?q=OHDSI)
+
 # ATLAS
 
 <a href="http://www.ohdsi.org/web/atlas"><img src="http://www.ohdsi.org/web/wiki/lib/exe/fetch.php?cache=&media=documentation:software:logo_without_text.png" align="left" hspace="10" vspace="6" width="164" height="200"></a>
